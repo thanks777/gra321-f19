@@ -1,0 +1,27 @@
+/* styles for project 4 */
+
+p{
+    background color:#ECEBE4
+}
+
+h1 { 
+    color:#153B50; font-family: adelle-sans, sans-serif;; font-size: 36px; font-style: bold
+}
+
+h2 { 
+    color:#429EA6; font-family: adelle-sans, sans-serif;; font-size: 24px; font-style: italic ; padding: 10%; word-spacing: 5px
+}
+
+body { 
+    color:#153B50; font-family: adelle-sans, sans-serif; font-size: 16px; font-style: normal ; line-height: 36px; padding: 20%; background color : #ECEBE4
+}
+}
+
+li { 
+    color:#153B50; font-family: adelle-sans, sans-serif; font-size: 16px; font-style: normal; padding: 20%; background color : #ECEBE4 
+}
+
+img {width: 98%}
+
+
+
