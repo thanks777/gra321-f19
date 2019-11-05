@@ -227,7 +227,13 @@ font-size: 24pt;
     justify-items: center;
     padding: 20px;
     }
-    
+a:link {
+  text-decoration: none;
+  font-style: bold;
+font-weight: 700;
+font-size:24pt;
+line-height: 27pt;
+color:black;    
 }
 
 
