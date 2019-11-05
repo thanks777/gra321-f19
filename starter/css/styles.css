@@ -235,6 +235,12 @@ font-size:24pt;
 line-height: 27pt;
 color:black;    
 }
+a:hover {
+color:#F73179;
+text-decoration: none;
+font-style: bold;
+font-weight: 700; 
+}
 
 
 
