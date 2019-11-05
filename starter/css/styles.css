@@ -10,6 +10,7 @@ font-style: bold;
 font-weight: 700;
 font-size: 24pt;
 list-style: none;
+    display:90%;
   }
 @-ms-viewport{
     width:device-width;
